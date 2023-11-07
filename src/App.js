@@ -2,15 +2,14 @@ import "./App.css";
 import NavBar from "./components/NavBar";
 import Main from "./components/Main";
 import Footer from "./components/Footer";
+function App() {
+  return(
 
-function App()
-{
-  return (
-    <div>
-      <NavBar />
-       <Main />
-       <Footer />
-    </div>
+<div>
+  <NavBar></NavBar>
+  <Main></Main>
+  <Footer></Footer>
+  </div>
   );
 }
 

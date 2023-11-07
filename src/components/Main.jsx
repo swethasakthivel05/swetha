@@ -1,6 +1,6 @@
 import React from "react";
 
-const main = () => {
+const Main = () => {
   return (
     <div>
       <label for="name">Email Id: &emsp;</label>
@@ -17,4 +17,4 @@ const main = () => {
   );
 };
 
-export default main;
+export default Main;
