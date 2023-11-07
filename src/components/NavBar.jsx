@@ -6,7 +6,7 @@ const NavBar = () => {
       <center>
         <hr></hr>
         <h1 style={{ backgroundColor: "skyblue", fontSize: "30px" }}>
-          SWETHA S
+          Swetha S
         </h1>
         <hr></hr>
       </center>
