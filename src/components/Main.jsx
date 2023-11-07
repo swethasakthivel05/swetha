@@ -9,6 +9,7 @@ const Main = () => {
       <label for="na">Password: &emsp;</label>
       <input id="na" type="box" placeholder="Password"></input>
       <br></br>
+      <label for="na">Password: &emsp;</label>
       <button>Click</button>
     </div>
   );
