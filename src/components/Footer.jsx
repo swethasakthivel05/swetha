@@ -1,9 +1,7 @@
-function Footer() {
-  return (
-    <div>
-      <footer>compyrite@2023</footer>
-    </div>
-  );
-}
+import React from "react";
 
-export { Footer };
+const Footer = () => {
+  return <div>Footer</div>;
+};
+
+export default Footer;

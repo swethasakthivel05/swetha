@@ -1,7 +1,7 @@
-function NavBar() {
-  return (
-    <div>
-      <footer>compyriter</footer>
-    </div>
-  );
-}
+import React from "react";
+
+const NavBar = () => {
+  return <div>NavBar</div>;
+};
+
+export default NavBar;
