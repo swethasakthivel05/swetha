@@ -10,8 +10,6 @@ const Main = () => {
       <input id="na" type="box" placeholder="Password"></input>
       <br></br>
       <button>Click</button>
-
-      <input></input>
     </div>
   );
 };
