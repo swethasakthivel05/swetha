@@ -1,16 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
-import { Message } from "./Message";
-import { ListElements } from "./ListElements";
-function App() {
+import "./App.css";
+import NavBar from "./components/NavBar";
+import Main from "./components/Main";
+import Footer from "./components/Footer";
 
+function App()
+{
   return (
- // to access the return with various statement <div> is used.
-  <div>
-    <Message></Message>  
-    <ListElements></ListElements>
-  </div>
-  )
+    <div>
+      <NavBar />
+       <Main />
+       <Footer />
+    </div>
+  );
 }
 
 export default App;
