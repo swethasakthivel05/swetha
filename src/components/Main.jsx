@@ -3,7 +3,7 @@ import React from "react";
 const Main = () => {
   return (
     <div>
-      <centre>
+      <center>
         <label for="name">Email Id: &emsp;</label>
         <input id="name" type="Email" placeholder="Email ID"></input>
         <br></br>
@@ -11,9 +11,8 @@ const Main = () => {
         <input id="na" type="Password" placeholder="Password"></input>
         <br></br>
         <button>SUBMIT</button>
-      </centre>
+      </center>
     </div>
   );
 };
-
 export default Main;
