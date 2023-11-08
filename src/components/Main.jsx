@@ -1,5 +1,3 @@
-import React from "react";
-
 const Main = () => {
   return (
     <div>
@@ -19,7 +17,9 @@ const Main = () => {
         <input id="na" type="Password" placeholder="Password"></input>
         <br></br>
         <br></br>
-        <button>SUBMIT</button>
+        <button className="px-4 py-2 rounded-lg bg-red-500 font-medium">
+          SUBMIT
+        </button>
         <br></br>
         <br></br>
       </center>
