@@ -1,5 +1,4 @@
 import { useState } from "react";
-
 const Cricket = () => {
   const [count, setCount] = useState(0);
   const [counts, setCounts] = useState(0);
