@@ -1,4 +1,5 @@
 // day 3
+
 import "./App.css";
 import Cricket from "./day3/Cricket";
 function App() {
@@ -12,6 +13,7 @@ function App() {
 export default App;
 
 // day 2
+
 // import "./App.css";
 // import NavBar from "./components/NavBar";
 // import Footer from "./components/Footer";
