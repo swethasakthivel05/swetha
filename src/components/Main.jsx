@@ -17,7 +17,7 @@ const Main = () => {
         <input id="na" type="Password" placeholder="Password"></input>
         <br></br>
         <br></br>
-        <button className="px-4 py-2 rounded-lg bg-red-500 font-medium">
+        <button className="px-4 py-2 rounded-lg bg-blue-300 font-medium">
           SUBMIT
         </button>
         <br></br>
