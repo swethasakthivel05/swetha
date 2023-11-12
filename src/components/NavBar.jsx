@@ -1,13 +1,11 @@
 import React from "react";
-
+import "./design.css";
 const NavBar = () => {
   return (
     <div>
       <center>
         <hr></hr>
-        <h1 style={{ backgroundColor: "skyblue", fontSize: "30px" }}>
-          Swetha S
-        </h1>
+        <h1 className="name">Swetha S</h1>
         <hr></hr>
       </center>
     </div>
@@ -15,3 +13,5 @@ const NavBar = () => {
 };
 
 export default NavBar;
+
+// style={{ backgroundColor: "skyblue", fontSize: "30px" }}

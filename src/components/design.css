@@ -1,0 +1,21 @@
+.name{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+}
+.profile{
+    color: brown;
+    font-size: 20px;
+}
+.email{
+    color: brown;
+    font-size: 20px;
+}
+.password{
+    color: brown;
+    font-size: 20px;
+}
+.footer{
+    color: brown;
+    font-size: 20px;
+}
