@@ -7,7 +7,9 @@ function HelloWorld() {
       <br></br>
       <h1>
         <i>
-          <center>Hello World...</center>
+          <b>
+            <center>Hello World...</center>
+          </b>{" "}
         </i>
       </h1>
     </div>

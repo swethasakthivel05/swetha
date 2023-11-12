@@ -37,7 +37,7 @@ function App() {
     <div
     style={{
       backgroundImage:
-        'url("https://image.slidesdocs.com/responsive-images/background/white-nature-leaf-natural-plant-beautiful-powerpoint-background_696ac76cd9__960_540.jpg")',
+        'url("https://e0.pxfuel.com/wallpapers/169/818/desktop-wallpaper-black-group-1752%C3%971378-elegant-black-36-black-abstract-background-cool-powerpoint-background-black-background.jpg")',
       backgroundRepeat: "no-repeat",
       backgroundSize: "cover",
     }}
