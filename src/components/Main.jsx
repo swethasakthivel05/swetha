@@ -5,7 +5,10 @@ const Main = () => {
       <center>
         <br></br>
         <label className="profile" for="name">
-          <b>Profile: &emsp;</b>
+          <u>
+            <b>Profile:</b>
+          </u>
+          &emsp;
         </label>
         <br></br>
         <br></br>
@@ -13,13 +16,17 @@ const Main = () => {
         <br></br>
         <br></br>
         <label className="email" for="name">
-          <b>Email Id: &emsp;</b>
+          <b>
+            <u>Email Id:</u> &emsp;
+          </b>
         </label>
         <input id="name" type="Email" placeholder="Email ID"></input>
         <br></br>
         <br></br>
         <label className="password" for="na">
-          <b>Password: &emsp;</b>
+          <b>
+            <u>Password:</u> &emsp;
+          </b>
         </label>
         <input id="na" type="Password" placeholder="Password"></input>
         <br></br>

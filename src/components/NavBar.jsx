@@ -5,7 +5,9 @@ const NavBar = () => {
     <div>
       <center>
         <hr></hr>
-        <h1 className="name">Swetha S</h1>
+        <h1 className="name">
+          <i>Swetha S</i>
+        </h1>
         <hr></hr>
       </center>
     </div>
