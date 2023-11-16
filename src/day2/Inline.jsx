@@ -10,13 +10,13 @@ const Inline = () => {
         padding: 10,
         border: "1px solid blue",
         borderRadius: 5,
-        top: 0,
-        bottom: 0,
       }}
     >
       <h1>
         <b>
-          <i>Welcome To The World Of Laughter!!....</i>
+          <center>
+            <i>Welcome To The World Of Laughter!!....</i>
+          </center>
         </b>
       </h1>
       <br></br>
