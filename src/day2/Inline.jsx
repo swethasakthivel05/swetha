@@ -7,6 +7,11 @@ const Inline = () => {
         backgroundColor: "lightblue",
         color: "darkblue",
         fontSize: 16,
+        padding: 10,
+        border: "1px solid blue",
+        borderRadius: 5,
+        top: 0,
+        bottom: 0,
       }}
     >
       <h1>
