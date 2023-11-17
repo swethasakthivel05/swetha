@@ -130,20 +130,57 @@
    
 // export default App;
 
+// //button
+// import React from 'react'
+// import Button from './components/Button.jsx'
+// const App = () => {
+//   return (
+//     <div>
+//       <Button></Button>
+//     </div>
+//   )
+// }
+
+// export default App
 
 //project
 //loginpage
 
-import React from 'react';
-import LoginPage from './Project/LoginPage';
+// import React from 'react';
+// import LoginPage from './Project/LoginPage';
+// const App = () => {
+//   return (
+//     <div>
+//       <center>
+//     <LoginPage></LoginPage>
+//     </center>
+//     </div>
+//   );
+// };
+
+// export default App;
+
+//signup
+
+import React from 'react'
+import Signup from './Project/Signup.jsx';
 const App = () => {
   return (
-    <div>
+    <div 
+    style={{backgroundImage:
+    'url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEsfQsnWqV3yHaCoUL4P1pjtXnsR4MZb9z4w&usqp=CAU")',
+    backgroundRepeat:"no-repeat",
+    backgroundSize:"cover",
+    }}>
       <center>
-    <LoginPage></LoginPage>
-    </center>
+      <Signup></Signup>
+      </center>
     </div>
-  );
+  )
 };
 
 export default App;
+
+
+
+
