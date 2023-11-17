@@ -1,8 +1,12 @@
 // //  teacoffee
-// import Cart from "./teacoffee/Cart";
-// //import Categories from "./teacoffee/Categories";
-// import Menu from "./teacoffee/Menu";
-// import Navbar from "./teacoffee/Navbar";
+
+
+// // export default App;
+// import { useState } from "react";
+// import Cart from "./day3/coffeeShop/Cart";
+// import Menu from "./day3/coffeeShop/Menu";
+// import Navbar from "./day3/coffeeShop/Navbar";
+// import categories from "./day3/coffeeShop/products";
 
 // function App() {
 //   const [activeCategory, setActiveCategory] = useState(categories[0]);
@@ -27,31 +31,30 @@
 
 // export default App;
 
+// // // //sample
+// // // import "./App.css";
+// // // import items from "./sample/items";
 
-// // //sample
-// // import "./App.css";
-// // import items from "./sample/items";
+// // // const App = () => {
+// // //   return (
+// // //     <div>
+// // //       <items></items>
+// // //       </div>
+// // //   )
+// // // }
 
-// // const App = () => {
-// //   return (
-// //     <div>
-// //       <items></items>
-// //       </div>
-// //   )
-// // }
+// // // export default App;
+// // // //day 4
+// // // import "./App.css";
+// // // import Menu from "./day4/menu";
 
-// // export default App;
-// // //day 4
-// // import "./App.css";
-// // import Menu from "./day4/menu";
-
-// // function App() {
-// //   return (
-// //     <div>
-// //       <Menu />
-// //     </div>
-// //   );
-// // }
+// // // function App() {
+// // //   return (
+// // //     <div>
+// // //       <Menu />
+// // //     </div>
+// // //   );
+// // // }
 
 // // export default App;
 
@@ -72,15 +75,15 @@
 
 // day 2
 
-import "./App.css";
-import HelloWorld from "./day2/HelloWorld";
-function App() {
-  return (
-    <div>
-      <HelloWorld></HelloWorld>
-    </div>
-  );
-    }
+// import "./App.css";
+// import HelloWorld from "./day2/HelloWorld";
+// function App() {
+//   return (
+//     <div>
+//       <HelloWorld></HelloWorld>
+//     </div>
+//   );
+//     }
 
 //inline
 
@@ -95,7 +98,7 @@ function App() {
 //   )
 // }
 
-export default App;
+// export default App;
 
    
 // export default App;
@@ -126,3 +129,21 @@ export default App;
 //     }
    
 // export default App;
+
+
+//project
+//loginpage
+
+import React from 'react';
+import LoginPage from './Project/LoginPage';
+const App = () => {
+  return (
+    <div>
+      <center>
+    <LoginPage></LoginPage>
+    </center>
+    </div>
+  );
+};
+
+export default App;

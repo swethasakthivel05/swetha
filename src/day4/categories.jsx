@@ -1,9 +1,10 @@
-const Categories = [
+const categories = [
   {
     title: "Coffee",
     items: [
       { name: "Cold Coffee", price: 80 },
       { name: "Chocolate Coffee", price: 150 },
+      { name: "Cappuccino", price: 170 },
     ],
   },
   {
@@ -15,4 +16,4 @@ const Categories = [
   },
 ];
 
-export default Categories;
+export default categories;
